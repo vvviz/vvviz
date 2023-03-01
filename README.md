@@ -1,2 +1,2 @@
 # vvviz
-Data Visualization with MLOps.
+Exploratory Data Analysis.
